@@ -1,0 +1,2 @@
+# ChinaTaskbarClock
+ChinaTaskbarClock,一个简单的在任务栏左边显示中国时间日期和农历的小工具。固定显示。用于时区不在中国但是需要看中国时间的人。
