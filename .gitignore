@@ -1,0 +1,15 @@
+# 构建产物（用 build.bat 重新生成）
+*.exe
+*.rsp
+
+# 备份 / 临时
+*.orig-bak
+*.next.exe
+*-share.zip
+
+# IDE / OS
+.vs/
+bin/
+obj/
+Thumbs.db
+Desktop.ini
